@@ -1,0 +1,5199 @@
+{
+  "nav_icon": "chester_icon.png",
+  "firstPhotoId": "112000",
+  "firstPhotoRotation": 150,
+  "soundEffects": {
+    "navButton": {
+      "onEnter": {
+        "uri": "switch-flip.wav",
+        "attributionUri":
+          "https://www.freesound.org/people/ianstargem/sounds/278205/"
+      },
+      "onClick": {
+        "uri": "menu-click.wav",
+        "attributionUri": "https://www.freesound.org/people/fins/sounds/146721/"
+      }
+    },
+    "infoButton": {
+      "onEnter": {
+        "uri": "switch-flip.wav",
+        "attributionUri":
+          "https://www.freesound.org/people/ianstargem/sounds/278205/"
+      }
+    }
+  },
+  "photos": {
+    "112000": {
+      "rotationOffset": 90,
+      "uri": "chess-world.jpg",
+      "tooltips": [
+        {
+          "text": "Rector's Office",
+          "rotationY": 10,
+          "linkedPhotoId": "112275"
+        },
+        {
+          "text": "Sport Center",
+          "rotationY": 30,
+          "linkedPhotoId": "112287"
+        },
+        {
+          "text": "L Block",
+          "rotationY": 50,
+          "linkedPhotoId": "112174"
+        },
+        {
+          "text": "H Block",
+          "rotationY": 70,
+          "linkedPhotoId": "112202"
+        },
+        {
+          "text": "M Block",
+          "rotationY": 90,
+          "linkedPhotoId": "112220"
+        },
+        {
+          "text": "Registrar's Office",
+          "rotationY": 110,
+          "linkedPhotoId": "112274"
+        },
+        {
+          "text": "K Block",
+          "rotationY": 130,
+          "linkedPhotoId": "112099"
+        },
+        {
+          "text": "Main Area",
+          "rotationY": 150,
+          "linkedPhotoId": "112246"
+        },
+        {
+          "text": "English Preparatory Unit",
+          "rotationY": 170,
+          "linkedPhotoId": "112335"
+        },
+        {
+          "text": "Guardhouse",
+          "rotationY": -10,
+          "linkedPhotoId": "112416"
+        },
+        {
+          "text": "Library",
+          "rotationY": -30,
+          "linkedPhotoId": "112272"
+        },
+        {
+          "text": "N Block",
+          "rotationY": -60,
+          "linkedPhotoId": "112164"
+        }
+      ]
+    },
+    "112335": {
+      "rotationOffset": 0,
+      "uri": "360_0335.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 135,
+          "linkedPhotoId": "112330"
+        },
+        {
+          "text": "Back",
+          "rotationY": -10,
+          "linkedPhotoId": "112332"
+        },
+        {
+          "text": "Exit",
+          "rotationY": -90,
+          "linkedPhotoId": "112392"
+        }
+      ]
+    },
+    "112053": {
+      "rotationOffset": 290,
+      "uri": "360_0053.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112052"
+        },
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112054"
+        },
+        {
+          "text": "M Block",
+          "rotationY": 0,
+          "linkedPhotoId": "112238"
+        },
+        {
+          "text": "H Block-Down",
+          "rotationY": -150,
+          "linkedPhotoId": "112202"
+        },
+        {
+          "text": "P Block",
+          "rotationY": 175,
+          "linkedPhotoId": "112194"
+        }
+      ]
+    },
+    "112194": {
+      "rotationOffset": 0,
+      "uri": "360_0194.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112195"
+        },
+        {
+          "text": "Down",
+          "rotationY": -135,
+          "linkedPhotoId": "112200"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112053"
+        }
+      ]
+    },
+    "112195": {
+      "rotationOffset": 0,
+      "uri": "360_0195.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112196"
+        },
+        {
+          "text": "Back",
+          "rotationY": -80,
+          "linkedPhotoId": "112194"
+        }
+      ]
+    },
+    "112196": {
+      "rotationOffset": 0,
+      "uri": "360_0196.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112195"
+        },
+        {
+          "text": "Down",
+          "rotationY": 105,
+          "linkedPhotoId": "112197"
+        }
+      ]
+    },
+    "112200": {
+      "rotationOffset": 0,
+      "uri": "360_0200.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112199"
+        },
+        {
+          "text": "Up",
+          "rotationY": -80,
+          "linkedPhotoId": "112194"
+        },
+        {
+          "text": "Down",
+          "rotationY": -110,
+          "linkedPhotoId": "112205"
+        },
+        {
+          "text": "H Block",
+          "rotationY": 175,
+          "linkedPhotoId": "112201"
+        }
+      ]
+    },
+    "112199": {
+      "rotationOffset": 0,
+      "uri": "360_0199.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 176,
+          "linkedPhotoId": "112198"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112200"
+        }
+      ]
+    },
+    "112198": {
+      "rotationOffset": 0,
+      "uri": "360_0198.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112197"
+        },
+        {
+          "text": "Back",
+          "rotationY": -85,
+          "linkedPhotoId": "112199"
+        }
+      ]
+    },
+    "112197": {
+      "rotationOffset": 0,
+      "uri": "360_0197.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": -75,
+          "linkedPhotoId": "112196"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112198"
+        },
+        {
+          "text": "Down",
+          "rotationY": -110,
+          "linkedPhotoId": "112207"
+        }
+      ]
+    },
+    "112205": {
+      "rotationOffset": 0,
+      "uri": "360_0205.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112206"
+        },
+        {
+          "text": "Up",
+          "rotationY": -140,
+          "linkedPhotoId": "112200"
+        }
+      ]
+    },
+    "112206": {
+      "rotationOffset": 0,
+      "uri": "360_0206.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112207"
+        },
+        {
+          "text": "Go",
+          "rotationY": -5,
+          "linkedPhotoId": "112205"
+        }
+      ]
+    },
+
+    "112207": {
+      "rotationOffset": 0,
+      "uri": "360_0207.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 100,
+          "linkedPhotoId": "112197"
+        },
+        {
+          "text": "Go",
+          "rotationY": 178,
+          "linkedPhotoId": "112206"
+        }
+      ]
+    },
+    "112054": {
+      "rotationOffset": 40,
+      "uri": "360_0054.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112053"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112057"
+        }
+      ]
+    },
+    "112057": {
+      "rotationOffset": 250,
+      "uri": "360_0057.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -82,
+          "linkedPhotoId": "112054"
+        },
+        {
+          "text": "Back",
+          "rotationY": -5,
+          "linkedPhotoId": "112245"
+        },
+        {
+          "text": "Up",
+          "rotationY": 80,
+          "linkedPhotoId": "112086"
+        }
+      ]
+    },
+    "112245": {
+      "rotationOffset": 130,
+      "uri": "360_0245.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 85,
+          "linkedPhotoId": "112057"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112246"
+        }
+      ]
+    },
+    "112246": {
+      "rotationOffset": 50,
+      "uri": "360_0246.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 155,
+          "linkedPhotoId": "112245"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112373"
+        }
+      ]
+    },
+    "112052": {
+      "rotationOffset": 200,
+      "uri": "360_0052.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -5,
+          "linkedPhotoId": "112047"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112053"
+        }
+      ]
+    },
+    "112047": {
+      "rotationOffset": 100,
+      "uri": "360_0047.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112046"
+        },
+        {
+          "text": "Back",
+          "rotationY": -85,
+          "linkedPhotoId": "112052"
+        },
+        {
+          "text": "R Block",
+          "rotationY": 0,
+          "linkedPhotoId": "112121"
+        },
+        {
+          "text": "L Block",
+          "rotationY": 175,
+          "linkedPhotoId": "112192"
+        }
+      ]
+    },
+    "112046": {
+      "rotationOffset": 120,
+      "uri": "360_0046.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 85,
+          "linkedPhotoId": "112045"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112047"
+        },
+        {
+          "text": "Amfi",
+          "rotationY": 175,
+          "linkedPhotoId": "112058"
+        }
+      ]
+    },
+    "112045": {
+      "rotationOffset": 220,
+      "uri": "360_0045.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112046"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112044"
+        }
+      ]
+    },
+    "112044": {
+      "rotationOffset": 190,
+      "uri": "360_0044.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112045"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112043"
+        }
+      ]
+    },
+    "112043": {
+      "rotationOffset": 0,
+      "uri": "360_0043.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112044"
+        },
+        {
+          "text": "Yeşim Cafe",
+          "rotationY": 0,
+          "linkedPhotoId": "112039"
+        },
+        {
+          "text": "Up",
+          "rotationY": -100,
+          "linkedPhotoId": "112061"
+        },
+        {
+          "text": "K Block",
+          "rotationY": 95,
+          "linkedPhotoId": "112099"
+        }
+      ]
+    },
+    "112039": {
+      "rotationOffset": 0,
+      "uri": "360_0039.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112040"
+        },
+        {
+          "text": "Go",
+          "rotationY": -20,
+          "linkedPhotoId": "112038"
+        },
+        {
+          "text": "Back",
+          "rotationY": 50,
+          "linkedPhotoId": "112043"
+        }
+      ]
+    },
+    "112038": {
+      "rotationOffset": 0,
+      "uri": "360_0038.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112037"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112039"
+        }
+      ]
+    },
+    "112037": {
+      "rotationOffset": 0,
+      "uri": "360_0037.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112036"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112038"
+        }
+      ]
+    },
+    "112036": {
+      "rotationOffset": 0,
+      "uri": "360_0036.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -85,
+          "linkedPhotoId": "112034"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112037"
+        }
+      ]
+    },
+    "112034": {
+      "rotationOffset": 0,
+      "uri": "360_0034.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -100,
+          "linkedPhotoId": "112042"
+        },
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112036"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112340"
+        }
+      ]
+    },
+    "112042": {
+      "rotationOffset": 0,
+      "uri": "360_0042.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112034"
+        },
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112041"
+        }
+      ]
+    },
+    "112041": {
+      "rotationOffset": 180,
+      "uri": "360_0041.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112042"
+        },
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112040"
+        }
+      ]
+    },
+    "112040": {
+      "rotationOffset": 250,
+      "uri": "360_0040.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -80,
+          "linkedPhotoId": "112041"
+        },
+        {
+          "text": "Back",
+          "rotationY": 5,
+          "linkedPhotoId": "112039"
+        }
+      ]
+    },
+    "112061": {
+      "rotationOffset": 0,
+      "uri": "360_0061.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -70,
+          "linkedPhotoId": "112043"
+        },
+        {
+          "text": "Up",
+          "rotationY": 170,
+          "linkedPhotoId": "112063"
+        }
+      ]
+    },
+    "112063": {
+      "rotationOffset": 0,
+      "uri": "360_0063.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 60,
+          "linkedPhotoId": "112061"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112140"
+        },
+        {
+          "text": "Up",
+          "rotationY": 125,
+          "linkedPhotoId": "112064"
+        }
+      ]
+    },
+    "112064": {
+      "rotationOffset": 0,
+      "uri": "360_0064.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 0,
+          "linkedPhotoId": "112063"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112068"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112098"
+        },
+        {
+          "text": "Yemekhane",
+          "rotationY": 170,
+          "linkedPhotoId": "112243"
+        },
+        {
+          "text": "Game Lab",
+          "rotationY": -60,
+          "linkedPhotoId": "GameLab"
+        },
+        {
+          "text": "PC Lab",
+          "rotationY": 60,
+          "linkedPhotoId": "PCLab"
+        }
+      ]
+    },
+    "GameLab": {
+      "rotationOffset": 0,
+      "uri": "GameLab.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112064"
+        }
+      ]
+    },
+    "PCLab": {
+      "rotationOffset": 0,
+      "uri": "PCLab.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112064"
+        }
+      ]
+    },
+
+    "112068": {
+      "rotationOffset": 0,
+      "uri": "360_0068.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112064"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112069"
+        }
+      ]
+    },
+    "112069": {
+      "rotationOffset": 0,
+      "uri": "360_0069.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -110,
+          "linkedPhotoId": "112068"
+        },
+        {
+          "text": "Go",
+          "rotationY": 70,
+          "linkedPhotoId": "112070"
+        }
+      ]
+    },
+    "112070": {
+      "rotationOffset": 0,
+      "uri": "360_0070.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112069"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112071"
+        }
+      ]
+    },
+    "112071": {
+      "rotationOffset": 0,
+      "uri": "360_0071.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112070"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112072"
+        }
+      ]
+    },
+    "112072": {
+      "rotationOffset": 0,
+      "uri": "360_0072.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112071"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112073"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112095"
+        },
+        {
+          "text": "Down",
+          "rotationY": 0,
+          "linkedPhotoId": "112047"
+        }
+      ]
+    },
+    "112073": {
+      "rotationOffset": 0,
+      "uri": "360_0073.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112072"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112074"
+        }
+      ]
+    },
+    "112074": {
+      "rotationOffset": 0,
+      "uri": "360_0074.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -60,
+          "linkedPhotoId": "112073"
+        },
+        {
+          "text": "Go",
+          "rotationY": 120,
+          "linkedPhotoId": "112075"
+        }
+      ]
+    },
+    "112075": {
+      "rotationOffset": 0,
+      "uri": "360_0075.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -70,
+          "linkedPhotoId": "112074"
+        },
+        {
+          "text": "Go",
+          "rotationY": 110,
+          "linkedPhotoId": "112078"
+        }
+      ]
+    },
+    "112078": {
+      "rotationOffset": 0,
+      "uri": "360_0078.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112075"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112079"
+        }
+      ]
+    },
+    "112079": {
+      "rotationOffset": 0,
+      "uri": "360_0079.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -130,
+          "linkedPhotoId": "112078"
+        },
+        {
+          "text": "Go",
+          "rotationY": 50,
+          "linkedPhotoId": "112080"
+        }
+      ]
+    },
+    "112080": {
+      "rotationOffset": 0,
+      "uri": "360_0080.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 20,
+          "linkedPhotoId": "112079"
+        },
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112085"
+        }
+      ]
+    },
+    "112085": {
+      "rotationOffset": 0,
+      "uri": "360_0085.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112080"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112086"
+        }
+      ]
+    },
+    "112086": {
+      "rotationOffset": 0,
+      "uri": "360_0086.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 30,
+          "linkedPhotoId": "112085"
+        },
+        {
+          "text": "Go",
+          "rotationY": -40,
+          "linkedPhotoId": "112090"
+        },
+        {
+          "text": "Down",
+          "rotationY": -100,
+          "linkedPhotoId": "112057"
+        }
+      ]
+    },
+    "112090": {
+      "rotationOffset": 0,
+      "uri": "360_0090.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112091"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112086"
+        }
+      ]
+    },
+    "112091": {
+      "rotationOffset": 0,
+      "uri": "360_0091.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112092"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112090"
+        }
+      ]
+    },
+    "112092": {
+      "rotationOffset": 0,
+      "uri": "360_0092.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112093"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112091"
+        }
+      ]
+    },
+    "112093": {
+      "rotationOffset": 0,
+      "uri": "360_0093.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -15,
+          "linkedPhotoId": "112094"
+        },
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112092"
+        }
+      ]
+    },
+    "112094": {
+      "rotationOffset": 0,
+      "uri": "360_0094.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -25,
+          "linkedPhotoId": "112095"
+        },
+        {
+          "text": "Go",
+          "rotationY": 155,
+          "linkedPhotoId": "112093"
+        }
+      ]
+    },
+    "112095": {
+      "rotationOffset": 0,
+      "uri": "360_0095.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -20,
+          "linkedPhotoId": "112096"
+        },
+        {
+          "text": "Go",
+          "rotationY": 160,
+          "linkedPhotoId": "112094"
+        }
+      ]
+    },
+    "112096": {
+      "rotationOffset": 0,
+      "uri": "360_0096.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112097"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112095"
+        }
+      ]
+    },
+    "112097": {
+      "rotationOffset": 0,
+      "uri": "360_0097.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112098"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112096"
+        }
+      ]
+    },
+    "112098": {
+      "rotationOffset": 0,
+      "uri": "360_0098.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112064"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112097"
+        }
+      ]
+    },
+
+    "112099": {
+      "rotationOffset": 0,
+      "uri": "360_0099.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -7,
+          "linkedPhotoId": "112100"
+        },
+        {
+          "text": "Main Area",
+          "rotationY": 175,
+          "linkedPhotoId": "112043"
+        }
+      ]
+    },
+    "112100": {
+      "rotationOffset": 0,
+      "uri": "360_0100.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112099"
+        },
+        {
+          "text": "Class",
+          "rotationY": -30,
+          "linkedPhotoId": "112101"
+        },
+        {
+          "text": "Go",
+          "rotationY": 85,
+          "linkedPhotoId": "112102"
+        }
+      ]
+    },
+    "112101": {
+      "rotationOffset": 0,
+      "uri": "360_0101.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -7,
+          "linkedPhotoId": "112100"
+        }
+      ]
+    },
+    "112102": {
+      "rotationOffset": 0,
+      "uri": "360_0102.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -75,
+          "linkedPhotoId": "112103"
+        },
+        {
+          "text": "Down",
+          "rotationY": 160,
+          "linkedPhotoId": "112104"
+        },
+        {
+          "text": "Back",
+          "rotationY": 95,
+          "linkedPhotoId": "112100"
+        },
+        {
+          "text": "Up",
+          "rotationY": -95,
+          "linkedPhotoId": "112109"
+        },
+        {
+          "text": "Exit",
+          "rotationY": -158,
+          "linkedPhotoId": "112342"
+        }
+      ]
+    },
+    "112103": {
+      "rotationOffset": 0,
+      "uri": "360_0103.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -85,
+          "linkedPhotoId": "112102"
+        }
+      ]
+    },
+    "112104": {
+      "rotationOffset": 0,
+      "uri": "360_0104.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 125,
+          "linkedPhotoId": "112105"
+        },
+        {
+          "text": "Up",
+          "rotationY": -155,
+          "linkedPhotoId": "112102"
+        }
+      ]
+    },
+    "112105": {
+      "rotationOffset": 0,
+      "uri": "360_0105.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112106"
+        },
+        {
+          "text": "Up",
+          "rotationY": 15,
+          "linkedPhotoId": "112104"
+        },
+        {
+          "text": "Go",
+          "rotationY": -95,
+          "linkedPhotoId": "112107"
+        }
+      ]
+    },
+    "112106": {
+      "rotationOffset": 0,
+      "uri": "360_0106.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112105"
+        }
+      ]
+    },
+    "112107": {
+      "rotationOffset": 0,
+      "uri": "360_0107.JPG",
+      "tooltips": [
+        {
+          "text": "Class",
+          "rotationY": 75,
+          "linkedPhotoId": "112108"
+        },
+        {
+          "text": "Back",
+          "rotationY": -87,
+          "linkedPhotoId": "112105"
+        }
+      ]
+    },
+    "112108": {
+      "rotationOffset": 0,
+      "uri": "360_0108.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112107"
+        }
+      ]
+    },
+    "112109": {
+      "rotationOffset": 0,
+      "uri": "360_0109.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 93,
+          "linkedPhotoId": "112110"
+        },
+        {
+          "text": "Down",
+          "rotationY": -82,
+          "linkedPhotoId": "112102"
+        }
+      ]
+    },
+    "112110": {
+      "rotationOffset": 0,
+      "uri": "360_0110.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 90,
+          "linkedPhotoId": "112111"
+        },
+        {
+          "text": "Down",
+          "rotationY": -85,
+          "linkedPhotoId": "112109"
+        }
+      ]
+    },
+    "112111": {
+      "rotationOffset": 0,
+      "uri": "360_0111.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": -125,
+          "linkedPhotoId": "112113"
+        },
+        {
+          "text": "Down",
+          "rotationY": 165,
+          "linkedPhotoId": "112110"
+        }
+      ]
+    },
+    "112113": {
+      "rotationOffset": 0,
+      "uri": "360_0113.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -85,
+          "linkedPhotoId": "112114"
+        },
+        {
+          "text": "Down",
+          "rotationY": 33,
+          "linkedPhotoId": "112111"
+        }
+      ]
+    },
+    "112114": {
+      "rotationOffset": 0,
+      "uri": "360_0114.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -85,
+          "linkedPhotoId": "112115"
+        },
+        {
+          "text": "Back",
+          "rotationY": 88,
+          "linkedPhotoId": "112113"
+        }
+      ]
+    },
+    "112115": {
+      "rotationOffset": 0,
+      "uri": "360_0115.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 15,
+          "linkedPhotoId": "112116"
+        },
+        {
+          "text": "Back",
+          "rotationY": 75,
+          "linkedPhotoId": "112114"
+        },
+        {
+          "text": "Down",
+          "rotationY": -60,
+          "linkedPhotoId": "112113"
+        }
+      ]
+    },
+    "112116": {
+      "rotationOffset": 0,
+      "uri": "360_0116.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 28,
+          "linkedPhotoId": "112118"
+        },
+        {
+          "text": "Down",
+          "rotationY": 95,
+          "linkedPhotoId": "112115"
+        }
+      ]
+    },
+    "112118": {
+      "rotationOffset": 0,
+      "uri": "360_0118.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 3,
+          "linkedPhotoId": "112119"
+        },
+        {
+          "text": "Back",
+          "rotationY": -178,
+          "linkedPhotoId": "112116"
+        }
+      ]
+    },
+    "112119": {
+      "rotationOffset": 0,
+      "uri": "360_0119.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 135,
+          "linkedPhotoId": "112115"
+        },
+        {
+          "text": "Back",
+          "rotationY": -88,
+          "linkedPhotoId": "112118"
+        }
+      ]
+    },
+    "112243": {
+      "rotationOffset": 0,
+      "uri": "360_0243.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112064"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112244"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112242"
+        }
+      ]
+    },
+    "112244": {
+      "rotationOffset": 0,
+      "uri": "360_0244.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112243"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112239"
+        }
+      ]
+    },
+    "112239": {
+      "rotationOffset": 0,
+      "uri": "360_0239.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112244"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112240"
+        }
+      ]
+    },
+    "112240": {
+      "rotationOffset": 0,
+      "uri": "360_0240.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112239"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112241"
+        }
+      ]
+    },
+    "112241": {
+      "rotationOffset": 0,
+      "uri": "360_0241.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112240"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112242"
+        }
+      ]
+    },
+    "112242": {
+      "rotationOffset": 0,
+      "uri": "360_0242.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112243"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112241"
+        }
+      ]
+    },
+
+    "112140": {
+      "rotationOffset": 0,
+      "uri": "360_0140.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 120,
+          "linkedPhotoId": "112063"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112141"
+        }
+      ]
+    },
+    "112141": {
+      "rotationOffset": 0,
+      "uri": "360_0141.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112140"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112142"
+        }
+      ]
+    },
+    "112142": {
+      "rotationOffset": 0,
+      "uri": "360_0142.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112141"
+        }
+      ]
+    },
+    "112058": {
+      "rotationOffset": 0,
+      "uri": "360_0058.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112046"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112060"
+        }
+      ]
+    },
+    "112060": {
+      "rotationOffset": 0,
+      "uri": "360_0060.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112058"
+        }
+      ]
+    },
+    "112121": {
+      "rotationOffset": 0,
+      "uri": "360_0121.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112047"
+        },
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112122"
+        }
+      ]
+    },
+    "112122": {
+      "rotationOffset": 0,
+      "uri": "360_0122.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -70,
+          "linkedPhotoId": "112123"
+        },
+        {
+          "text": "Up",
+          "rotationY": -130,
+          "linkedPhotoId": "112130"
+        },
+        {
+          "text": "Down",
+          "rotationY": -160,
+          "linkedPhotoId": "112126"
+        },
+        {
+          "text": "Back",
+          "rotationY": 100,
+          "linkedPhotoId": "112121"
+        }
+      ]
+    },
+    "112123": {
+      "rotationOffset": 0,
+      "uri": "360_0123.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112124"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112122"
+        }
+      ]
+    },
+    "112124": {
+      "rotationOffset": 0,
+      "uri": "360_0124.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112125"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112123"
+        }
+      ]
+    },
+    "112125": {
+      "rotationOffset": 0,
+      "uri": "360_0125.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -20,
+          "linkedPhotoId": "112124"
+        }
+      ]
+    },
+    "112130": {
+      "rotationOffset": 0,
+      "uri": "360_0130.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -80,
+          "linkedPhotoId": "112131"
+        },
+        {
+          "text": "Up",
+          "rotationY": -13,
+          "linkedPhotoId": "112136"
+        },
+        {
+          "text": "Down",
+          "rotationY": 13,
+          "linkedPhotoId": "112122"
+        }
+      ]
+    },
+    "112131": {
+      "rotationOffset": 0,
+      "uri": "360_0131.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112133"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112130"
+        }
+      ]
+    },
+    "112133": {
+      "rotationOffset": 0,
+      "uri": "360_0133.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112135"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112131"
+        }
+      ]
+    },
+    "112135": {
+      "rotationOffset": 0,
+      "uri": "360_0135.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112133"
+        }
+      ]
+    },
+    "112136": {
+      "rotationOffset": 0,
+      "uri": "360_0136.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112137"
+        },
+        {
+          "text": "Down",
+          "rotationY": 50,
+          "linkedPhotoId": "112130"
+        }
+      ]
+    },
+    "112137": {
+      "rotationOffset": 0,
+      "uri": "360_0137.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112138"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112136"
+        }
+      ]
+    },
+    "112138": {
+      "rotationOffset": 0,
+      "uri": "360_0138.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112139"
+        },
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112137"
+        }
+      ]
+    },
+    "112139": {
+      "rotationOffset": 0,
+      "uri": "360_0139.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 60,
+          "linkedPhotoId": "112138"
+        }
+      ]
+    },
+    "112126": {
+      "rotationOffset": 0,
+      "uri": "360_0126.JPG",
+      "tooltips": [
+        {
+          "text": "Class",
+          "rotationY": -90,
+          "linkedPhotoId": "112127"
+        },
+        {
+          "text": "Up",
+          "rotationY": -140,
+          "linkedPhotoId": "112122"
+        },
+        {
+          "text": "Down",
+          "rotationY": -155,
+          "linkedPhotoId": "112129"
+        }
+      ]
+    },
+    "112127": {
+      "rotationOffset": 0,
+      "uri": "360_0127.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 160,
+          "linkedPhotoId": "112126"
+        }
+      ]
+    },
+    "112129": {
+      "rotationOffset": 0,
+      "uri": "360_0129.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 20,
+          "linkedPhotoId": "112126"
+        }
+      ]
+    },
+    "112274": {
+      "rotationOffset": 0,
+      "uri": "360_0274.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -75,
+          "linkedPhotoId": "112273"
+        },
+        {
+          "text": "Exit",
+          "rotationY": 170,
+          "linkedPhotoId": "112377"
+        }
+      ]
+    },
+    "112273": {
+      "rotationOffset": 0,
+      "uri": "360_0273.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 17,
+          "linkedPhotoId": "112274"
+        }
+      ]
+    },
+
+    "112220": {
+      "rotationOffset": 0,
+      "uri": "360_0220.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112221"
+        },
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112335"
+        }
+      ]
+    },
+    "112221": {
+      "rotationOffset": 0,
+      "uri": "360_0221.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112222"
+        },
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112220"
+        }
+      ]
+    },
+    "112222": {
+      "rotationOffset": 0,
+      "uri": "360_0222.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112223"
+        },
+
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112221"
+        }
+      ]
+    },
+    "112223": {
+      "rotationOffset": 0,
+      "uri": "360_0223.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112225"
+        },
+        {
+          "text": "Down",
+          "rotationY": 160,
+          "linkedPhotoId": "112217"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112222"
+        }
+      ]
+    },
+    "112225": {
+      "rotationOffset": 0,
+      "uri": "360_0225.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 20,
+          "linkedPhotoId": "112229"
+        },
+        {
+          "text": "N Block",
+          "rotationY": 0,
+          "linkedPhotoId": "112164"
+        },
+        {
+          "text": "Up",
+          "rotationY": -40,
+          "linkedPhotoId": "112234"
+        },
+        {
+          "text": "Down",
+          "rotationY": -30,
+          "linkedPhotoId": "112214"
+        },
+        {
+          "text": "Go",
+          "rotationY": -110,
+          "linkedPhotoId": "112223"
+        },
+        {
+          "text": "L Block",
+          "rotationY": 165,
+          "linkedPhotoId": "112001"
+        }
+      ]
+    },
+    "112229": {
+      "rotationOffset": 0,
+      "uri": "360_0229.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112227"
+        },
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112225"
+        }
+      ]
+    },
+    "112231": {
+      "rotationOffset": 0,
+      "uri": "360_0231.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112225"
+        },
+        {
+          "text": "Back",
+          "rotationY": -10,
+          "linkedPhotoId": "112174"
+        }
+      ]
+    },
+    "112234": {
+      "rotationOffset": 0,
+      "uri": "360_0234.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -5,
+          "linkedPhotoId": "112235"
+        },
+        {
+          "text": "Down",
+          "rotationY": -40,
+          "linkedPhotoId": "112225"
+        }
+      ]
+    },
+    "112235": {
+      "rotationOffset": 0,
+      "uri": "360_0235.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 80,
+          "linkedPhotoId": "112236"
+        },
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112234"
+        }
+      ]
+    },
+    "112236": {
+      "rotationOffset": 0,
+      "uri": "360_0236.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 110,
+          "linkedPhotoId": "112238"
+        },
+        {
+          "text": "Class",
+          "rotationY": 170,
+          "linkedPhotoId": "112237"
+        },
+        {
+          "text": "Go",
+          "rotationY": -70,
+          "linkedPhotoId": "112235"
+        }
+      ]
+    },
+    "112237": {
+      "rotationOffset": 0,
+      "uri": "360_0237.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112236"
+        }
+      ]
+    },
+    "112238": {
+      "rotationOffset": 0,
+      "uri": "360_0238.JPG",
+      "tooltips": [
+        {
+          "text": "Main Area",
+          "rotationY": 0,
+          "linkedPhotoId": "112053"
+        },
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112236"
+        }
+      ]
+    },
+    "112227": {
+      "rotationOffset": 0,
+      "uri": "360_0227.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112202"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112229"
+        }
+      ]
+    },
+    "112202": {
+      "rotationOffset": 0,
+      "uri": "360_0202.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -100,
+          "linkedPhotoId": "112201"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112203"
+        },
+        {
+          "text": "Back",
+          "rotationY": 100,
+          "linkedPhotoId": "112227"
+        },
+        {
+          "text": "Main Area",
+          "rotationY": -40,
+          "linkedPhotoId": "112053"
+        }
+      ]
+    },
+    "112201": {
+      "rotationOffset": 0,
+      "uri": "360_0201.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -175,
+          "linkedPhotoId": "112202"
+        },
+        {
+          "text": "P Block",
+          "rotationY": 3,
+          "linkedPhotoId": "112200"
+        }
+      ]
+    },
+    "112203": {
+      "rotationOffset": 0,
+      "uri": "360_0203.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 10,
+          "linkedPhotoId": "112204"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112202"
+        }
+      ]
+    },
+    "112204": {
+      "rotationOffset": 0,
+      "uri": "360_0204.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112203"
+        },
+        {
+          "text": "L Block",
+          "rotationY": -83,
+          "linkedPhotoId": "112173"
+        },
+        {
+          "text": "Go",
+          "rotationY": -133,
+          "linkedPhotoId": "112355"
+        }
+      ]
+    },
+    "112173": {
+      "rotationOffset": 0,
+      "uri": "360_0173.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112285"
+        },
+        {
+          "text": "H Block",
+          "rotationY": 175,
+          "linkedPhotoId": "112204"
+        }
+      ]
+    },
+
+    "112217": {
+      "rotationOffset": 0,
+      "uri": "360_0217.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112218"
+        },
+        {
+          "text": "Back",
+          "rotationY": 20,
+          "linkedPhotoId": "112215"
+        },
+        {
+          "text": "Up",
+          "rotationY": 40,
+          "linkedPhotoId": "112223"
+        }
+      ]
+    },
+    "112218": {
+      "rotationOffset": 0,
+      "uri": "360_0218.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 110,
+          "linkedPhotoId": "112219"
+        },
+
+        {
+          "text": "Back",
+          "rotationY": -70,
+          "linkedPhotoId": "112217"
+        }
+      ]
+    },
+    "112219": {
+      "rotationOffset": 0,
+      "uri": "360_0219.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 110,
+          "linkedPhotoId": "112219"
+        },
+
+        {
+          "text": "Back",
+          "rotationY": -100,
+          "linkedPhotoId": "112218"
+        }
+      ]
+    },
+    "112215": {
+      "rotationOffset": 0,
+      "uri": "360_0215.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112214"
+        },
+
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112217"
+        }
+      ]
+    },
+    "112214": {
+      "rotationOffset": 0,
+      "uri": "360_0214.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 50,
+          "linkedPhotoId": "112232"
+        },
+        {
+          "text": "Up",
+          "rotationY": -105,
+          "linkedPhotoId": "112225"
+        },
+        {
+          "text": "Go",
+          "rotationY": -155,
+          "linkedPhotoId": "112215"
+        }
+      ]
+    },
+    "112232": {
+      "rotationOffset": 0,
+      "uri": "360_0232.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 80,
+          "linkedPhotoId": "112233"
+        },
+        {
+          "text": "Back",
+          "rotationY": -155,
+          "linkedPhotoId": "112214"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112374"
+        }
+      ]
+    },
+    "112233": {
+      "rotationOffset": 0,
+      "uri": "360_0233.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 80,
+          "linkedPhotoId": "112232"
+        }
+      ]
+    },
+    "112174": {
+      "rotationOffset": 150,
+      "uri": "360_0174.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112176"
+        },
+        {
+          "text": "Classes",
+          "rotationY": -90,
+          "linkedPhotoId": "112285"
+        },
+        {
+          "text": "Down",
+          "rotationY": 50,
+          "linkedPhotoId": "112165"
+        },
+        {
+          "text": "M Block",
+          "rotationY": 160,
+          "linkedPhotoId": "112231"
+        }
+      ]
+    },
+    "112165": {
+      "rotationOffSet": 0,
+      "uri": "360_0165.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 150,
+          "linkedPhotoId": "112174"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112166"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112169"
+        }
+      ]
+    },
+
+    "112169": {
+      "rotationOffSet": 0,
+      "uri": "360_0169.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112165"
+        },
+        {
+          "text": "Go",
+          "rotationY": 150,
+          "linkedPhotoId": "112170"
+        }
+      ]
+    },
+    "112170": {
+      "rotationOffSet": 0,
+      "uri": "360_0170.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112169"
+        },
+        {
+          "text": "Go",
+          "rotationY": 150,
+          "linkedPhotoId": "112171"
+        }
+      ]
+    },
+    "112171": {
+      "rotationOffSet": 0,
+      "uri": "360_0171.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112170"
+        },
+        {
+          "text": "Go",
+          "rotationY": 150,
+          "linkedPhotoId": "112172"
+        }
+      ]
+    },
+    "112172": {
+      "rotationOffSet": 0,
+      "uri": "360_0172.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112171"
+        }
+      ]
+    },
+    "112166": {
+      "rotationOffSet": 0,
+      "uri": "360_0166.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112165"
+        },
+        {
+          "text": "Class",
+          "rotationY": 90,
+          "linkedPhotoId": "112168"
+        },
+        {
+          "text": "Go",
+          "rotationY": 150,
+          "linkedPhotoId": "112167"
+        }
+      ]
+    },
+
+    "112167": {
+      "rotationOffSet": 0,
+      "uri": "360_0167.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112166"
+        }
+      ]
+    },
+
+    "112168": {
+      "rotationOffSet": 0,
+      "uri": "360_0168.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112166"
+        }
+      ]
+    },
+
+    "112176": {
+      "rotationOffset": 0,
+      "uri": "360_0176.JPG",
+      "tooltips": [
+        {
+          "text": "Academic Unit",
+          "rotationY": 170,
+          "linkedPhotoId": "112177"
+        },
+        {
+          "text": "Back",
+          "rotationY": -70,
+          "linkedPhotoId": "112174"
+        },
+        {
+          "text": "Class",
+          "rotationY": -40,
+          "linkedPhotoId": "112285"
+        },
+        {
+          "text": "Up",
+          "rotationY": -90,
+          "linkedPhotoId": "112193"
+        }
+      ]
+    },
+
+    "112285": {
+      "rotationOffset": 170,
+      "uri": "360_0285.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 10,
+          "linkedPhotoId": "112286"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112174"
+        },
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112173"
+        }
+      ]
+    },
+
+    "112286": {
+      "rotationOffset": 0,
+      "uri": "360_0286.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 170,
+          "linkedPhotoId": "112285"
+        }
+      ]
+    },
+
+    "112177": {
+      "rotationOffset": 0,
+      "uri": "360_0177.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -10,
+          "linkedPhotoId": "112178"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112176"
+        }
+      ]
+    },
+
+    "112178": {
+      "rotationOffset": 0,
+      "uri": "360_0178.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 5,
+          "linkedPhotoId": "112179"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112177"
+        }
+      ]
+    },
+
+    "112179": {
+      "rotationOffset": 0,
+      "uri": "360_0179.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112178"
+        }
+      ]
+    },
+
+    "112193": {
+      "rotationOffSet": 0,
+      "uri": "360_0193.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -50,
+          "linkedPhotoId": "112192"
+        },
+        {
+          "text": "Academic Unit",
+          "rotationY": 170,
+          "linkedPhotoId": "112180"
+        },
+        {
+          "text": "Up",
+          "rotationY": -80,
+          "linkedPhotoId": "112212"
+        },
+        {
+          "text": "Down",
+          "rotationY": -95,
+          "linkedPhotoId": "112176"
+        }
+      ]
+    },
+    "112212": {
+      "rotationOffSet": 0,
+      "uri": "360_0212.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 0,
+          "linkedPhotoId": "112193"
+        },
+        {
+          "text": "Go",
+          "rotationY": -20,
+          "linkedPhotoId": "112211"
+        },
+        {
+          "text": "Up",
+          "rotationY": 20,
+          "linkedPhotoId": "112187"
+        }
+      ]
+    },
+    "112187": {
+      "rotationOffSet": 0,
+      "uri": "360_0187.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": -145,
+          "linkedPhotoId": "112212"
+        },
+        {
+          "text": "Go",
+          "rotationY": 170,
+          "linkedPhotoId": "112186"
+        }
+      ]
+    },
+
+    "112188": {
+      "rotationOffSet": 0,
+      "uri": "360_0188.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 170,
+          "linkedPhotoId": "112187"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112189"
+        }
+      ]
+    },
+    "112189": {
+      "rotationOffSet": 0,
+      "uri": "360_0189.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112188"
+        }
+      ]
+    },
+
+    "112186": {
+      "rotationOffSet": 0,
+      "uri": "360_0186.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -170,
+          "linkedPhotoId": "112185"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112187"
+        }
+      ]
+    },
+    "112185": {
+      "rotationOffSet": 0,
+      "uri": "360_0185.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112186"
+        },
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112184"
+        }
+      ]
+    },
+    "112184": {
+      "rotationOffSet": 0,
+      "uri": "360_0184.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112185"
+        },
+        {
+          "text": "Up",
+          "rotationY": 0,
+          "linkedPhotoId": "112188"
+        }
+      ]
+    },
+
+    "112211": {
+      "rotationOffSet": 0,
+      "uri": "360_0211.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112212"
+        },
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112209"
+        }
+      ]
+    },
+    "112209": {
+      "rotationOffSet": 0,
+      "uri": "360_0209.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112211"
+        },
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112208"
+        }
+      ]
+    },
+    "112208": {
+      "rotationOffSet": 0,
+      "uri": "360_0208.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -10,
+          "linkedPhotoId": "112209"
+        }
+      ]
+    },
+
+    "112180": {
+      "rotationOffSet": 0,
+      "uri": "360_0180.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112181"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112193"
+        }
+      ]
+    },
+    "112181": {
+      "rotationOffSet": 0,
+      "uri": "360_0181.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112182"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112180"
+        }
+      ]
+    },
+
+    "112182": {
+      "rotationOffSet": 0,
+      "uri": "360_0182.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112181"
+        }
+      ]
+    },
+
+    "112192": {
+      "rotationOffSet": 0,
+      "uri": "360_0192.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 5,
+          "linkedPhotoId": "112047"
+        },
+        {
+          "text": "Go",
+          "rotationY": 115,
+          "linkedPhotoId": "112193"
+        }
+      ]
+    },
+
+    "112332": {
+      "rotationOffset": -85,
+      "uri": "360_0332.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112334"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112335"
+        }
+      ]
+    },
+    "112334": {
+      "rotationOffset": 110,
+      "uri": "360_0334.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": -155,
+          "linkedPhotoId": "112324"
+        },
+        {
+          "text": "Back",
+          "rotationY": -85,
+          "linkedPhotoId": "112332"
+        }
+      ]
+    },
+    "112331": {
+      "rotationOffset": 300,
+      "uri": "360_0331.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112330"
+        }
+      ]
+    },
+    "112330": {
+      "rotationOffset": 130,
+      "uri": "360_0330.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 85,
+          "linkedPhotoId": "112329"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112331"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112335"
+        }
+      ]
+    },
+    "112329": {
+      "rotationOffset": 0,
+      "uri": "360_0329.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": -158,
+          "linkedPhotoId": "112330"
+        },
+        {
+          "text": "Up",
+          "rotationY": 160,
+          "linkedPhotoId": "112326"
+        }
+      ]
+    },
+    "112327": {
+      "rotationOffset": 250,
+      "uri": "360_0327.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 85,
+          "linkedPhotoId": "112326"
+        }
+      ]
+    },
+    "112326": {
+      "rotationOffset": 250,
+      "uri": "360_0326.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112327"
+        },
+        {
+          "text": "Down",
+          "rotationY": 15,
+          "linkedPhotoId": "112329"
+        },
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112322"
+        }
+      ]
+    },
+    "112324": {
+      "rotationOffset": 240,
+      "uri": "360_0324.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 175,
+          "linkedPhotoId": "112323"
+        },
+        {
+          "text": "Down",
+          "rotationY": 40,
+          "linkedPhotoId": "112334"
+        }
+      ]
+    },
+    "112323": {
+      "rotationOffset": 5,
+      "uri": "360_0323.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112324"
+        },
+        {
+          "text": "Go",
+          "rotationY": 5,
+          "linkedPhotoId": "112322"
+        }
+      ]
+    },
+    "112322": {
+      "rotationOffset": 120,
+      "uri": "360_0322.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 145,
+          "linkedPhotoId": "112323"
+        },
+        {
+          "text": "Go",
+          "rotationY": -115,
+          "linkedPhotoId": "112326"
+        }
+      ]
+    },
+    "112275": {
+      "rotationOffset": 0,
+      "uri": "360_0275.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 165,
+          "linkedPhotoId": "112278"
+        },
+        {
+          "text": "Go",
+          "rotationY": -70,
+          "linkedPhotoId": "112397"
+        }
+      ]
+    },
+    "112278": {
+      "rotationOffset": 0,
+      "uri": "360_0278.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 120,
+          "linkedPhotoId": "112279"
+        },
+        {
+          "text": "Down",
+          "rotationY": 90,
+          "linkedPhotoId": "112275"
+        }
+      ]
+    },
+    "112279": {
+      "rotationOffset": 0,
+      "uri": "360_0279.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 10,
+          "linkedPhotoId": "112283"
+        },
+        {
+          "text": "Down",
+          "rotationY": -25,
+          "linkedPhotoId": "112278"
+        }
+      ]
+    },
+    "112283": {
+      "rotationOffset": 0,
+      "uri": "360_0283.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": -50,
+          "linkedPhotoId": "112281"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112279"
+        }
+      ]
+    },
+    "112281": {
+      "rotationOffset": 0,
+      "uri": "360_0281.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 20,
+          "linkedPhotoId": "112282"
+        },
+        {
+          "text": "Down",
+          "rotationY": -20,
+          "linkedPhotoId": "112283"
+        }
+      ]
+    },
+    "112282": {
+      "rotationOffset": 0,
+      "uri": "360_0282.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 10,
+          "linkedPhotoId": "112280"
+        },
+        {
+          "text": "Down",
+          "rotationY": -20,
+          "linkedPhotoId": "112281"
+        }
+      ]
+    },
+    "112280": {
+      "rotationOffset": 0,
+      "uri": "360_0280.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112282"
+        }
+      ]
+    },
+    "112287": {
+      "rotationOffset": 0,
+      "uri": "360_0287.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 150,
+          "linkedPhotoId": "112288"
+        },
+        {
+          "text": "Go",
+          "rotationY": -80,
+          "linkedPhotoId": "112289"
+        },
+        {
+          "text": "Go",
+          "rotationY": 120,
+          "linkedPhotoId": "112290"
+        },
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112406"
+        }
+      ]
+    },
+    "112288": {
+      "rotationOffset": 0,
+      "uri": "360_0288.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112287"
+        }
+      ]
+    },
+    "112289": {
+      "rotationOffset": 0,
+      "uri": "360_0289.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112287"
+        },
+        {
+          "text": "Courts",
+          "rotationY": 120,
+          "linkedPhotoId": "112310"
+        }
+      ]
+    },
+    "112290": {
+      "rotationOffset": 0,
+      "uri": "360_0290.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112287"
+        },
+
+        {
+          "text": "Up",
+          "rotationY": -30,
+          "linkedPhotoId": "112291"
+        }
+      ]
+    },
+    "112291": {
+      "rotationOffset": 0,
+      "uri": "360_0291.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 150,
+          "linkedPhotoId": "112290"
+        },
+
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112292"
+        }
+      ]
+    },
+    "112292": {
+      "rotationOffset": 0,
+      "uri": "360_0292.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112291"
+        },
+        {
+          "text": "Games",
+          "rotationY": 80,
+          "linkedPhotoId": "112296"
+        }
+      ]
+    },
+    "112296": {
+      "rotationOffset": 0,
+      "uri": "360_0296.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112292"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112297"
+        },
+        {
+          "text": "Sport Rooms",
+          "rotationY": 120,
+          "linkedPhotoId": "112293"
+        },
+        {
+          "text": "Go",
+          "rotationY": 100,
+          "linkedPhotoId": "112294"
+        }
+      ]
+    },
+    "112294": {
+      "rotationOffset": 0,
+      "uri": "360_0294.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112296"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112295"
+        }
+      ]
+    },
+    "112295": {
+      "rotationOffset": 0,
+      "uri": "360_0295.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112294"
+        },
+        {
+          "text": "Down",
+          "rotationY": -30,
+          "linkedPhotoId": "112317"
+        }
+      ]
+    },
+    "112293": {
+      "rotationOffset": 0,
+      "uri": "360_0293.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112296"
+        }
+      ]
+    },
+    "112297": {
+      "rotationOffset": 0,
+      "uri": "360_0297.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112296"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112298"
+        }
+      ]
+    },
+    "112298": {
+      "rotationOffset": 0,
+      "uri": "360_0298.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112297"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112299"
+        }
+      ]
+    },
+    "112299": {
+      "rotationOffset": 0,
+      "uri": "360_0299.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112298"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112300"
+        }
+      ]
+    },
+    "112300": {
+      "rotationOffset": 0,
+      "uri": "360_0300.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112299"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112301"
+        }
+      ]
+    },
+    "112301": {
+      "rotationOffset": 0,
+      "uri": "360_0301.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112300"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112302"
+        }
+      ]
+    },
+    "112302": {
+      "rotationOffset": 0,
+      "uri": "360_0302.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112301"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112303"
+        }
+      ]
+    },
+    "112303": {
+      "rotationOffset": 0,
+      "uri": "360_0303.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112302"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112304"
+        }
+      ]
+    },
+    "112304": {
+      "rotationOffset": 0,
+      "uri": "360_0304.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112303"
+        },
+        {
+          "text": "Games",
+          "rotationY": -30,
+          "linkedPhotoId": "112306"
+        },
+        {
+          "text": "Courts",
+          "rotationY": 120,
+          "linkedPhotoId": "112308"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112307"
+        }
+      ]
+    },
+    "112307": {
+      "rotationOffset": 0,
+      "uri": "360_0307.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112304"
+        }
+      ]
+    },
+    "112306": {
+      "rotationOffset": 0,
+      "uri": "360_0306.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112304"
+        }
+      ]
+    },
+    "112308": {
+      "rotationOffset": 0,
+      "uri": "360_0308.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112304"
+        }
+      ]
+    },
+    "112309": {
+      "rotationOffset": 0,
+      "uri": "360_0309.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112310"
+        }
+      ]
+    },
+    "112310": {
+      "rotationOffset": 0,
+      "uri": "360_0310.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112309"
+        },
+        {
+          "text": "Up",
+          "rotationY": -30,
+          "linkedPhotoId": "112317"
+        },
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112289"
+        }
+      ]
+    },
+    "112317": {
+      "rotationOffset": 0,
+      "uri": "360_0317.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 150,
+          "linkedPhotoId": "112310"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112318"
+        },
+        {
+          "text": "Up",
+          "rotationY": 120,
+          "linkedPhotoId": "112295"
+        }
+      ]
+    },
+    "112318": {
+      "rotationOffset": 0,
+      "uri": "360_0318.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 150,
+          "linkedPhotoId": "112317"
+        }
+      ]
+    },
+    "112416": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0416.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -70,
+          "linkedPhotoId": "112414"
+        }
+      ]
+    },
+    "112414": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0414.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112413"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112416"
+        }
+      ]
+    },
+    "112413": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0413.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112411"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112414"
+        }
+      ]
+    },
+    "112411": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0411.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112410"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112413"
+        }
+      ]
+    },
+    "112410": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0410.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112409"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112411"
+        }
+      ]
+    },
+    "112409": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0409.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112408"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112410"
+        }
+      ]
+    },
+    "112408": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0408.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112407"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112409"
+        }
+      ]
+    },
+    "112407": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0407.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112406"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112408"
+        }
+      ]
+    },
+    "112406": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0406.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112405"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112407"
+        },
+        {
+          "text": "Sport Center",
+          "rotationY": -60,
+          "linkedPhotoId": "112287"
+        }
+      ]
+    },
+    "112405": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0405.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 10,
+          "linkedPhotoId": "112404"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112406"
+        }
+      ]
+    },
+    "112404": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0404.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112394"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112405"
+        },
+        {
+          "text": "Go",
+          "rotationY": -80,
+          "linkedPhotoId": "112403"
+        }
+      ]
+    },
+    "112403": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0403.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112402"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112404"
+        }
+      ]
+    },
+    "112402": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0402.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112401"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112403"
+        }
+      ]
+    },
+    "112401": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0401.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112400"
+        },
+        {
+          "text": "Back",
+          "rotationY": 70,
+          "linkedPhotoId": "112402"
+        }
+      ]
+    },
+    "112400": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0400.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112399"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112401"
+        }
+      ]
+    },
+    "112399": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0399.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112398"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112400"
+        }
+      ]
+    },
+    "112398": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0398.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112397"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112399"
+        }
+      ]
+    },
+    "112397": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0397.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112396"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112398"
+        },
+        {
+          "text": "Rector's Office",
+          "rotationY": 110,
+          "linkedPhotoId": "112275"
+        }
+      ]
+    },
+    "112396": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0396.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112395"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112397"
+        }
+      ]
+    },
+    "112395": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0395.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112345"
+        },
+        {
+          "text": "Back",
+          "rotationY": 10,
+          "linkedPhotoId": "112396"
+        }
+      ]
+    },
+    "112394": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0394.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112393"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112404"
+        }
+      ]
+    },
+    "112393": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0393.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112392"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112394"
+        }
+      ]
+    },
+    "112392": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0392.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112391"
+        },
+        {
+          "text": "English Preparatory Unit",
+          "rotationY": -100,
+          "linkedPhotoId": "112335"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112393"
+        }
+      ]
+    },
+    "112391": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0391.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112389"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112392"
+        }
+      ]
+    },
+    "112389": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0389.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112386"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112391"
+        }
+      ]
+    },
+    "112386": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0386.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112385"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112389"
+        }
+      ]
+    },
+    "112385": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0385.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112384"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112386"
+        }
+      ]
+    },
+    "112384": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0384.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112383"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112385"
+        }
+      ]
+    },
+    "112383": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0383.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112382"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112384"
+        }
+      ]
+    },
+    "112382": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0382.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112381"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112383"
+        },
+        {
+          "text": "Go",
+          "rotationY": 85,
+          "linkedPhotoId": "112379"
+        }
+      ]
+    },
+    "112381": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0381.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112380"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112382"
+        }
+      ]
+    },
+    "112380": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0380.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112372"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112381"
+        }
+      ]
+    },
+    "112379": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0379.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112378"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112382"
+        }
+      ]
+    },
+    "112378": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0378.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112377"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112379"
+        }
+      ]
+    },
+    "112377": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0377.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112376"
+        },
+        {
+          "text": "Back",
+          "rotationY": -100,
+          "linkedPhotoId": "112378"
+        },
+        {
+          "text": "Library",
+          "rotationY": -130,
+          "linkedPhotoId": "112272"
+        },
+        {
+          "text": "Registrar's Office",
+          "rotationY": 176,
+          "linkedPhotoId": "112274"
+        }
+      ]
+    },
+    "112376": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0376.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112375"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112377"
+        },
+        {
+          "text": "N Block",
+          "rotationY": -145,
+          "linkedPhotoId": "112151"
+        }
+      ]
+    },
+    "112375": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0375.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112374"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112376"
+        }
+      ]
+    },
+    "112374": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0374.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112373"
+        },
+        {
+          "text": "Back",
+          "rotationY": 175,
+          "linkedPhotoId": "112375"
+        },
+        {
+          "text": "M Block",
+          "rotationY": 145,
+          "linkedPhotoId": "112232"
+        },
+        {
+          "text": "N Block",
+          "rotationY": -145,
+          "linkedPhotoId": "112143"
+        }
+      ]
+    },
+    "112373": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0373.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112372"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112374"
+        },
+        {
+          "text": "Main Area",
+          "rotationY": -20,
+          "linkedPhotoId": "112246"
+        }
+      ]
+    },
+    "112372": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0372.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112371"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112380"
+        },
+        {
+          "text": "Go",
+          "rotationY": 110,
+          "linkedPhotoId": "112373"
+        }
+      ]
+    },
+    "112371": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0371.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112370"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112372"
+        }
+      ]
+    },
+    "112370": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0370.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112369"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112371"
+        }
+      ]
+    },
+    "112369": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0369.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112368"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112370"
+        }
+      ]
+    },
+    "112368": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0368.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112367"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112369"
+        }
+      ]
+    },
+    "112367": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0367.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112365"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112368"
+        }
+      ]
+    },
+    "112365": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0365.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112364"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112367"
+        }
+      ]
+    },
+    "112364": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0364.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 30,
+          "linkedPhotoId": "112363"
+        },
+        {
+          "text": "Back",
+          "rotationY": 140,
+          "linkedPhotoId": "112365"
+        }
+      ]
+    },
+    "112363": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0363.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112362"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112364"
+        }
+      ]
+    },
+    "112362": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0362.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112361"
+        },
+        {
+          "text": "Back",
+          "rotationY": -30,
+          "linkedPhotoId": "112363"
+        }
+      ]
+    },
+    "112361": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0361.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112360"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112362"
+        }
+      ]
+    },
+    "112360": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0360.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112359"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112361"
+        }
+      ]
+    },
+    "112359": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0359.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112358"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112360"
+        }
+      ]
+    },
+    "112358": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0358.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112357"
+        },
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112359"
+        }
+      ]
+    },
+    "112357": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0357.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112356"
+        },
+        {
+          "text": "Back",
+          "rotationY": -160,
+          "linkedPhotoId": "112358"
+        }
+      ]
+    },
+    "112356": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0356.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112355"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112357"
+        }
+      ]
+    },
+    "112355": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0355.jpg",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 90,
+          "linkedPhotoId": "112000"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112356"
+        },
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112354"
+        },
+        {
+          "text": "HA Block",
+          "rotationY": -90,
+          "linkedPhotoId": "112204"
+        }
+      ]
+    },
+    "112354": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0354.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112349"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112355"
+        }
+      ]
+    },
+    "112349": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0349.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112348"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112354"
+        }
+      ]
+    },
+    "112348": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0348.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112345"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112349"
+        }
+      ]
+    },
+    "112345": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0345.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112395"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112348"
+        },
+        {
+          "text": "Go",
+          "rotationY": -30,
+          "linkedPhotoId": "112344"
+        }
+      ]
+    },
+    "112344": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0344.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112343"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112345"
+        }
+      ]
+    },
+    "112343": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0343.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112342"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112344"
+        }
+      ]
+    },
+    "112342": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0342.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112341"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112343"
+        },
+        {
+          "text": "K Block",
+          "rotationY": -20,
+          "linkedPhotoId": "112102"
+        }
+      ]
+    },
+    "112341": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0341.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112340"
+        },
+        {
+          "text": "Back",
+          "rotationY": -55,
+          "linkedPhotoId": "112342"
+        }
+      ]
+    },
+    "112340": {
+      "rotationOffset": 0,
+      "uri": "SAM_100_0340.jpg",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112034"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112341"
+        }
+      ]
+    },
+    "112272": {
+      "rotationOffset": 0,
+      "uri": "360_0272.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112260"
+        },
+        {
+          "text": "Back",
+          "rotationY": -100,
+          "linkedPhotoId": "112377"
+        }
+      ]
+    },
+    "112260": {
+      "rotationOffset": 0,
+      "uri": "360_0260.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 130,
+          "linkedPhotoId": "112263"
+        },
+        {
+          "text": "Exit",
+          "rotationY": -90,
+          "linkedPhotoId": "112272"
+        },
+        {
+          "text": "Go",
+          "rotationY": -140,
+          "linkedPhotoId": "112259"
+        }
+      ]
+    },
+    "112259": {
+      "rotationOffset": 0,
+      "uri": "360_0259.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112260"
+        },
+        {
+          "text": "Down",
+          "rotationY": 140,
+          "linkedPhotoId": "112256"
+        }
+      ]
+    },
+    "112256": {
+      "rotationOffset": 0,
+      "uri": "360_0256.JPG",
+      "tooltips": [
+        {
+          "text": "Up",
+          "rotationY": 165,
+          "linkedPhotoId": "112259"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112271"
+        }
+      ]
+    },
+    "112251": {
+      "rotationOffset": 0,
+      "uri": "360_0251.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112256"
+        },
+        {
+          "text": "Oda",
+          "rotationY": 165,
+          "linkedPhotoId": "112253"
+        },
+        {
+          "text": "Computers Room",
+          "rotationY": 120,
+          "linkedPhotoId": "112254"
+        },
+        {
+          "text": "Study Rooms",
+          "rotationY": -90,
+          "linkedPhotoId": "112249"
+        }
+      ]
+    },
+    "112253": {
+      "rotationOffset": 0,
+      "uri": "360_0253.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -80,
+          "linkedPhotoId": "112251"
+        }
+      ]
+    },
+    "112254": {
+      "rotationOffset": 0,
+      "uri": "360_0254.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112251"
+        }
+      ]
+    },
+    "112249": {
+      "rotationOffset": 0,
+      "uri": "360_0249.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112251"
+        },
+        {
+          "text": "Oda",
+          "rotationY": 0,
+          "linkedPhotoId": "112250"
+        }
+      ]
+    },
+    "112250": {
+      "rotationOffset": 0,
+      "uri": "360_0250.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -150,
+          "linkedPhotoId": "112249"
+        }
+      ]
+    },
+    "112263": {
+      "rotationOffset": 0,
+      "uri": "360_0263.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -20,
+          "linkedPhotoId": "112260"
+        },
+        {
+          "text": "Go",
+          "rotationY": -160,
+          "linkedPhotoId": "112265"
+        }
+      ]
+    },
+    "112265": {
+      "rotationOffset": 0,
+      "uri": "360_0265.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112263"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112267"
+        }
+      ]
+    },
+    "112267": {
+      "rotationOffset": 0,
+      "uri": "360_0267.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": -50,
+          "linkedPhotoId": "112265"
+        }
+      ]
+    },
+    "112001": {
+      "rotationOffset": 0,
+      "uri": "360_001.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112174"
+        },
+        {
+          "text": "Back",
+          "rotationY": -80,
+          "linkedPhotoId": "112225"
+        }
+      ]
+    },
+    "112164": {
+      "rotationOffset": 0,
+      "uri": "360_0164.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 90,
+          "linkedPhotoId": "112163"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112225"
+        }
+      ]
+    },
+    "112163": {
+      "rotationOffset": 0,
+      "uri": "360_0163.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112162"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112164"
+        },
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112161"
+        }
+      ]
+    },
+    "112162": {
+      "rotationOffset": 0,
+      "uri": "360_0162.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 0,
+          "linkedPhotoId": "112159"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112163"
+        }
+      ]
+    },
+    "112161": {
+      "rotationOffset": 0,
+      "uri": "360_0161.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112159"
+        },
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112163"
+        }
+      ]
+    },
+    "112159": {
+      "rotationOffset": 0,
+      "uri": "360_0159.JPG",
+      "tooltips": [
+        {
+          "text": "Down",
+          "rotationY": 40,
+          "linkedPhotoId": "112147"
+        },
+        {
+          "text": "Back",
+          "rotationY": -20,
+          "linkedPhotoId": "112162"
+        },
+        {
+          "text": "Go",
+          "rotationY": 160,
+          "linkedPhotoId": "112161"
+        }
+      ]
+    },
+    "112147": {
+      "rotationOffset": 0,
+      "uri": "360_0147.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 40,
+          "linkedPhotoId": "112148"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112146"
+        },
+        {
+          "text": "Up",
+          "rotationY": -20,
+          "linkedPhotoId": "112159"
+        }
+      ]
+    },
+    "112146": {
+      "rotationOffset": 0,
+      "uri": "360_0146.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112147"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112145"
+        }
+      ]
+    },
+    "112145": {
+      "rotationOffset": 0,
+      "uri": "360_0145.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112146"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112144"
+        }
+      ]
+    },
+    "112144": {
+      "rotationOffset": 0,
+      "uri": "360_0144.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112145"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112143"
+        }
+      ]
+    },
+    "112143": {
+      "rotationOffset": 0,
+      "uri": "360_0143.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -155,
+          "linkedPhotoId": "112374"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112144"
+        }
+      ]
+    },
+    "112148": {
+      "rotationOffset": 0,
+      "uri": "360_0148.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -60,
+          "linkedPhotoId": "112149"
+        },
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112147"
+        }
+      ]
+    },
+
+    "112149": {
+      "rotationOffset": 0,
+      "uri": "360_0149.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 95,
+          "linkedPhotoId": "112151"
+        },
+        {
+          "text": "Back",
+          "rotationY": -20,
+          "linkedPhotoId": "112148"
+        },
+        {
+          "text": "Class",
+          "rotationY": 165,
+          "linkedPhotoId": "112150"
+        },
+        {
+          "text": "Down",
+          "rotationY": 0,
+          "linkedPhotoId": "112152"
+        }
+      ]
+    },
+    "112151": {
+      "rotationOffset": 0,
+      "uri": "360_0151.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 0,
+          "linkedPhotoId": "112149"
+        },{
+          "text": "Go",
+          "rotationY": 100,
+          "linkedPhotoId": "112376"
+        }
+      ]
+    },
+    "112150": {
+      "rotationOffset": 0,
+      "uri": "360_0150.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 165,
+          "linkedPhotoId": "112149"
+        }
+      ]
+    },
+
+    "112152": {
+      "rotationOffset": 0,
+      "uri": "360_0152.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -150,
+          "linkedPhotoId": "112153"
+        },
+        {
+          "text": "Up",
+          "rotationY": 165,
+          "linkedPhotoId": "112149"
+        },
+        {
+          "text": "Go",
+          "rotationY": 100,
+          "linkedPhotoId": "112158"
+        }
+      ]
+    },
+    "112153": {
+      "rotationOffset": 0,
+      "uri": "360_0153.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112154"
+        },
+        {
+          "text": "Back",
+          "rotationY": 85,
+          "linkedPhotoId": "112152"
+        }
+      ]
+    },
+    "112154": {
+      "rotationOffset": 0,
+      "uri": "360_0154.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 140,
+          "linkedPhotoId": "112155"
+        },
+        {
+          "text": "Back",
+          "rotationY": 30,
+          "linkedPhotoId": "112153"
+        }
+      ]
+    },
+    "112155": {
+      "rotationOffset": 0,
+      "uri": "360_0155.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 60,
+          "linkedPhotoId": "112156"
+        },
+        {
+          "text": "Back",
+          "rotationY": -30,
+          "linkedPhotoId": "112154"
+        }
+      ]
+    },
+    "112156": {
+      "rotationOffset": 0,
+      "uri": "360_0156.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 75,
+          "linkedPhotoId": "112157"
+        },
+        {
+          "text": "Back",
+          "rotationY": -90,
+          "linkedPhotoId": "112155"
+        }
+      ]
+    },
+    "112157": {
+      "rotationOffset": 0,
+      "uri": "360_0157.JPG",
+      "tooltips": [
+        {
+          "text": "Go",
+          "rotationY": 165,
+          "linkedPhotoId": "112158"
+        },
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112156"
+        }
+      ]
+    },
+    "112158": {
+      "rotationOffset": 0,
+      "uri": "360_0158.JPG",
+      "tooltips": [
+        {
+          "text": "Back",
+          "rotationY": 90,
+          "linkedPhotoId": "112157"
+        },
+        {
+          "text": "Go",
+          "rotationY": -90,
+          "linkedPhotoId": "112152"
+        }
+      ]
+    }
+  }
+}
